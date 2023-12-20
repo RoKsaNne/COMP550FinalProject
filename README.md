@@ -1,1 +1,4 @@
 # COMP550FinalProject
+## Cross-Lingual Paraphrase Identification: Does Language Similarity Influence Accuracy
+
+Our project investigates the influence of linguistic similarity on paraphrase identification task in cross-lingual contexts. It involves a comparative analysis across diverse language pairs, utilizing multiple cross-lingual learning methods and classifiers. It quantitatively assesses language similarity and its correlation with paraphrase identification accuracy. The findings reveal that higher linguistic similarity tends to improve the accuracy of the cross-lingual paraphrase identification task for some methods. However some methods are not influenced a lot by the similarity. Overall, our results show the importance of considering linguistic nuances in the development of more efficient and accurate cross-lingual NLP applications.
